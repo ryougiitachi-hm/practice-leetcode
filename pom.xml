@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>per.itachi.practice.leetcode</groupId>
+    <artifactId>practice-leetcode</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0.0-SNAPSHOT</version>
+    <modules>
+        <module>leetcode-000003-medium</module>
+        <module>leetcode-000004-hard</module>
+        <module>leetcode-000005-medium</module>
+        <module>leetcode-000006-medium</module>
+        <module>leetcode-000007-medium</module>
+        <module>leetcode-000008-simple</module>
+        <module>leetcode-000009-simple</module>
+        <module>leetcode-000010-hard</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>
